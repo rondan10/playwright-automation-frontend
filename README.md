@@ -19,7 +19,7 @@ Antes de comenzar, asegúrate de tener instalados los siguientes componentes:
 1. Clona este repositorio:
 
    ```bash
-   git clone https://github.com/tu-usuario/playwright-pacifico.git
+   git clone https://github.com/tu-usuario/playwright-automation-frontend.git
 
 2. cd playwright-pacifico
 3. npm install
